@@ -13,8 +13,7 @@
   "author": "Jorge mtz",
   "license": "ISC",
   "dependencies": {
-    "@em-polymer/google-map": "^3.0.0-pre.5",
-    "@google/maps": "^0.5.5",
+    "google-maps-limited": "^1.0.0",
     "lit-element": "^2.0.1"
   }
 }
